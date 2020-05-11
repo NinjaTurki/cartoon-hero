@@ -1,3 +1,9 @@
+html{
+	background-image: url(img/website-title.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
 header{
 	background: white
 }
