@@ -8,6 +8,8 @@ footer{
 	font-family: courier new;
 	font-style: italic;
 	text-align: center;
+	background-color: lightblue;
+	height: 100px;
 }
 
 .center{
