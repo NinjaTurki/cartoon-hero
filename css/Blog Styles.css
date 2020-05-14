@@ -1,10 +1,10 @@
 .big{
-	font-size: 25px;
+	font-size: 3.5vw;
 	text-align: center;
 }
 
 footer{
-	font-size: 15px;
+	font-size: 1.2vw;
 	font-family: courier new;
 	font-style: italic;
 	text-align: center;
@@ -16,5 +16,5 @@ footer{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50%;
+	width: 25%;
 }
